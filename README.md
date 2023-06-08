@@ -1,5 +1,10 @@
 # Shopify React Native Skia Issue
 
+Package used:
+- React-navigation-native-stack: 6.x
+- React-native-reanimated: 3.1.0
+- @shopify/react-native-skia: 0.1.193
+
 ## [1625](https://github.com/Shopify/react-native-skia/issues/1625)
 
 [IOS] Can Skia draw in the Inactive state
