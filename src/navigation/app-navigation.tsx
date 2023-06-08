@@ -5,6 +5,7 @@ import {Home} from '../screens/home';
 import {Issue1625} from '../screens/#1625';
 import {Issue1626} from '../screens/#1626';
 import {Issue1628} from '../screens/#1628';
+import {Issue1627} from '../screens/#1627';
 
 const Root = createNativeStackNavigator();
 
@@ -16,6 +17,7 @@ export const AppNavigation = () => {
         <Root.Screen name="Home" component={Home} />
         <Root.Screen name="Issue1625" component={Issue1625} />
         <Root.Screen name="Issue1626" component={Issue1626} />
+        <Root.Screen name="Issue1627" component={Issue1627} />
         <Root.Screen name="Issue1628" component={Issue1628} />
       </Root.Navigator>
     </NavigationContainer>
