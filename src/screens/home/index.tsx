@@ -19,6 +19,7 @@ export const Home = () => {
     <ScrollView>
       <ItemNavigate title="Issue1625" onPress={handleNavigate('Issue1625')} />
       <ItemNavigate title="Issue1626" onPress={handleNavigate('Issue1626')} />
+      <ItemNavigate title="Issue1628" onPress={handleNavigate('Issue1628')} />
     </ScrollView>
   );
 };
