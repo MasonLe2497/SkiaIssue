@@ -17,6 +17,11 @@ Packages used:
 App crash when use skia value on UI thread
 <image src="./videos/1626.gif"/>
 
+## [1627](https://github.com/Shopify/react-native-skia/issues/1627)
+
+Skia view update reanimated value after Skia value a few time
+<image src="./videos/1627.gif"/>
+
 ## [1628](https://github.com/Shopify/react-native-skia/issues/1628)
 
 App crash when useComputedValue trigger reanimated value after didmount
