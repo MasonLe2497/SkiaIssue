@@ -4,4 +4,8 @@
 
 [IOS] Can Skia draw in the Inactive state
 <image src="./videos/1625.gif"/>
-</video>
+
+## [1626](https://github.com/Shopify/react-native-skia/issues/1626)
+
+App crash when use skia value on UI thread
+<image src="./videos/1626.gif"/>
